@@ -1,3 +1,4 @@
 <?php
-    echo 'hello!';
+    $name = 'Atom';
+    echo 'hello!'.$name;
 ?>
